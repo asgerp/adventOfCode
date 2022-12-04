@@ -77,7 +77,6 @@ class DayTwo {
                 0
             }
         }
-        
         points += when (elf) {
             // rock
             "A" -> {
